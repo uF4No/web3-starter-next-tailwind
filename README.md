@@ -1,6 +1,6 @@
 # Web3 starter
 
-![](./connect.gif)
+<p align="center"><img src="./connect.gif" width="500"/></p>
 
 This is a template you can use to bootstrap a web3 project. Built with [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com), and [ConnectKit](https://docs.family.co/connectkit).
 
